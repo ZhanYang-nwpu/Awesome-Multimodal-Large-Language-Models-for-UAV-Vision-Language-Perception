@@ -80,7 +80,7 @@ In this repository, we will collect and document researchers and their outstandi
 |  Title  |   Venue  |   Date   |   Code   |   Note   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
 |  ![Star](https://img.shields.io/github/stars/Hub-Tian/UAVs_Meet_LLMs.svg?style=social&label=Star) <br> [**UAVs Meet LLMs: Overviews and Perspectives Toward Agentic Low-Altitude Mobility**](https://www.sciencedirect.com/science/article/pii/S1566253525002313) <br> Tian, Y., Lin, F., Li, Y., Zhang, T., Zhang, Q., Fu, X., ... & Wang, F. Y.  <br>| Information Fusion | 2025-04-05 | [Github](https://github.com/Hub-Tian/UAVs_Meet_LLMs) | - |
-
+|  ![Star](https://img.shields.io/github/stars/ZhanYang-nwpu/Awesome-Remote-Sensing-Multimodal-Large-Language-Model.svg?style=social&label=Star) <br> [**Multimodal Large Language Models for Remote Sensing: A Survey**]() <br> Yang Zhan, Yuan Yuan <br>| - | 2024-01-17 | [Github](https://github.com/ZhanYang-nwpu/Awesome-Remote-Sensing-Multimodal-Large-Language-Model) | - |
 
 
 ## Star History
