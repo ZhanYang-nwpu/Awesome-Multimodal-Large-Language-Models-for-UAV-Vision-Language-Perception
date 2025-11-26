@@ -25,6 +25,7 @@ In this repository, we will collect and document researchers and their outstandi
   - [Spatial Aerial Video Grounding](#Spatial-Aerial-Video-Grounding)
   - [Drone Text-Video Retrieval](#Drone-Text-Video-Retrieval)
   - [Referring Expression Comprehension in Drone Scenes](#Referring-Expression-Comprehension-in-Drone-Scenes)
+  - [UAV-based Referring Image Segmentation](#UAV-based-Referring-Image-Segmentation)
 - [Other Related Survey Papers](#Other-Related-Survey-Papers)  
 
 ---
@@ -57,6 +58,11 @@ In this repository, we will collect and document researchers and their outstandi
 |:--------|:--------:|:--------:|:--------:|:--------:|
 |  ![Star](https://img.shields.io/github/stars/sunzc-sunny/refdrone.svg?style=social&label=Star) <br> [**RefDrone: A Challenging Benchmark for Referring Expression Comprehension in Drone Scenes**](https://arxiv.org/abs/2502.00392) <br> Sun, Z., Liu, Y., Zhu, H., Gu, Y., Zou, Y., Liu, Z., ... & Xu, Y.  <br>| arXiv | 2025-02-01 | [Github](https://github.com/sunzc-sunny/refdrone) | - |
 |  ![Star](https://img.shields.io/github/stars/ZhanYang-nwpu/RSVG-pytorch.svg?style=social&label=Star) <br> [**RSVG: Exploring Data and Model for Visual Grounding on Remote Sensing Data**](https://ieeexplore.ieee.org/abstract/document/10056343) <br>Yang Zhan, Zhitong Xiong, Yuan Yuan <br>| T-GRS | 2023-02-28 | [Github](https://github.com/ZhanYang-nwpu/RSVG-pytorch) | REC on RS |
+
+## UAV-based Referring Image Segmentation
+|  Title  |   Venue  |   Date   |   Code   |   Note   |
+|:--------|:--------:|:--------:|:--------:|:--------:|
+|  ![Star](https://img.shields.io/github/stars/lironui/AeroReformer.svg?style=social&label=Star) <br> [**AeroReformer: Aerial Referring Transformer for UAV-based Referring Image Segmentation**](https://arxiv.org/abs/2502.16680) <br> Rui Li, Xiaowei Zhao <br>| arXiv | 2025-02-01 | [Github](https://github.com/lironui/AeroReformer) | - |
 
 
 # Other Related Survey Paper
