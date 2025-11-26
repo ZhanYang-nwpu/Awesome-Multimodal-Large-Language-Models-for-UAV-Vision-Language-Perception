@@ -24,6 +24,7 @@ In this repository, we will collect and document researchers and their outstandi
 - [Vision-Language Perception Task for UAVs](#vision-language-Perception-Task-for-UAVs)
   - [Spatial Aerial Video Grounding](#Spatial-Aerial-Video-Grounding)
   - [Drone Text-Video Retrieval](#Drone-Text-Video-Retrieval)
+  - [Referring Expression Comprehension in Drone Scenes](#Referring-Expression-Comprehension-in-Drone-Scenes)
 - [Other Related Survey Papers](#Other-Related-Survey-Papers)  
 
 ---
@@ -50,6 +51,11 @@ In this repository, we will collect and document researchers and their outstandi
 |  Title  |   Venue  |   Date   |   Code   |   Note   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
 |  [**TCMA: Text-Conditioned Multi-granularity Alignment for Drone Cross-Modal Text-Video Retrieval**](https://arxiv.org/abs/2510.10180) <br> Zixu Zhao, Yang Zhan <br>| arXiv | 2025-10-11 | - | under review |
+
+## Referring Expression Comprehension in Drone Scenes
+|  Title  |   Venue  |   Date   |   Code   |   Note   |
+|:--------|:--------:|:--------:|:--------:|:--------:|
+|  ![Star](https://img.shields.io/github/stars/sunzc-sunny/refdrone.svg?style=social&label=Star) <br> [**RefDrone: A Challenging Benchmark for Referring Expression Comprehension in Drone Scenes**](https://arxiv.org/abs/2502.00392) <br> Sun, Z., Liu, Y., Zhu, H., Gu, Y., Zou, Y., Liu, Z., ... & Xu, Y.  <br>| arXiv | 2025-02-01 | [Github](https://github.com/sunzc-sunny/refdrone) | - |
 
 
 # Other Related Survey Paper
