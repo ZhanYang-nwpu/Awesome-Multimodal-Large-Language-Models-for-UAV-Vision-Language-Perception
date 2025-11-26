@@ -23,6 +23,7 @@ In this repository, we will collect and document researchers and their outstandi
   - [Multimodal Large Language Models for UAV](#multimodal-large-language-models-for-uav)
 - [Vision-Language Perception Task for UAVs](#VLP-UAV)
   - [Spatial Aerial Video Grounding](#savg)
+  - [Drone Text-Video Retrieval](#DTVR)
 ---
  
 
@@ -40,6 +41,12 @@ In this repository, we will collect and document researchers and their outstandi
 |  Title  |   Venue  |   Date   |   Code   |   Note   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
 |  ![Star](https://img.shields.io/github/stars/ZhanYang-nwpu/SAVG.svg?style=social&label=Star) <br> [**Where Does It Exist from the Low-Altitude: Spatial Aerial Video Grounding**](https://openreview.net/pdf?id=ktvr5cyMdu) <br> Yang Zhan, Yuan Yuan <br>| NeurIPS | 2025-10-29 | [Github](https://github.com/ZhanYang-nwpu/SAVG) | - |
+
+
+## Drone Text-Video Retrieval
+|  Title  |   Venue  |   Date   |   Code   |   Note   |
+|:--------|:--------:|:--------:|:--------:|:--------:|
+|  [**TCMA: Text-Conditioned Multi-granularity Alignment for Drone Cross-Modal Text-Video Retrieval**](https://arxiv.org/abs/2510.10180) <br> Zixu Zhao, Yang Zhan <br>| arXiv | 2025-10-11 | - | under review |
 
 
 
