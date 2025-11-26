@@ -40,8 +40,8 @@ In this repository, we will collect and document researchers and their outstandi
 |  Title  |   Venue  |   Date   |   Code   |   Note   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
 |  [**LLVM-drone: A synergistic framework integrating large language models and vision models for visual tasks in unmanned aerial vehicles**](https://www.sciencedirect.com/science/article/pii/S0950705125012316) <br> Yibiao Hu, You Zhou, Zhengqiang Zhu, Xi Yang, Han Zhang, Kun Bian, Hong Han <br>| Knowledge-Based Systems | 2025-10-09 | - | - |
-|  [**UAVBench and UAVIT-1M: Benchmarking and Enhancing MLLMs for Low-Altitude UAV Vision-Language Understanding**]() <br>Yang Zhan, Yuan Yuan  <br>| under review | 2025-09 | - | [Project page](https://UAVBench.github.io/) |
 |  ![Star](https://img.shields.io/github/stars/Leke-G/UAV-VL-R1.svg?style=social&label=Star) <br> [**UAV-VL-R1: Generalizing Vision-Language Models via Supervised Fine-Tuning and Multi-Stage GRPO for UAV Visual Reasoning**](https://arxiv.org/abs/2508.11196) <br> Guan, J., Mei, H., Zhang, B., Liu, D., Fu, Y., & Zhang, Y.  <br>| arXiv | 2025-08-15 | [Github](https://github.com/Leke-G/UAV-VL-R1) | - |
+|  [**UAVBench and UAVIT-1M: Benchmarking and Enhancing MLLMs for Low-Altitude UAV Vision-Language Understanding**]() <br>Yang Zhan, Yuan Yuan  <br>| under review | 2025-05-13 | - | [Project page](https://UAVBench.github.io/) |
 
 
 # Vision-Language Perception Task for UAVs
