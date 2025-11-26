@@ -10,12 +10,14 @@
 
 ## Please share a <font color='orange'>STAR ⭐</font> if this project does help
 
+### You can focus on remote sensing multimodal large language model (Vision-Language) [here](https://github.com/ZhanYang-nwpu/Awesome-Remote-Sensing-Multimodal-Large-Language-Model)
 
 ## 📢 Latest Updates
 In this repository, we will collect and document researchers and their outstanding work related to multimodal large language models for low-altitude UAV (vision-language perception).
 - **The list will be continuously updated** 🔥🔥
 - 📦 coming soon! 🚀
 - **Nov-26-2025**: The **first UAV-MLLMs** repository has been created. 🔥🔥
+- **Jan-17-2024**: A curated list about [remote sensing multimodal large language models (Vision-Language)](https://github.com/ZhanYang-nwpu/Awesome-Remote-Sensing-Multimodal-Large-Language-Model) is created. 🔥🔥
   
 ---
 <font size=5><center><b> Table of Contents </b> </center></font>
