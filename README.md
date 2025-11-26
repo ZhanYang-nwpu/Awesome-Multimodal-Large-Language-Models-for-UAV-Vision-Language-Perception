@@ -24,8 +24,8 @@ In this repository, we will collect and document researchers and their outstandi
 - [Vision-Language Perception Task for UAVs](#vision-language-Perception-Task-for-UAVs)
   - [Spatial Aerial Video Grounding](#Spatial-Aerial-Video-Grounding)
   - [Drone Text-Video Retrieval](#Drone-Text-Video-Retrieval)
-  - [Referring Expression Comprehension in Drone Scenes](#Referring-Expression-Comprehension-in-Drone-Scenes)
-  - [UAV-based Referring Image Segmentation](#UAV-based-Referring-Image-Segmentation)
+  - [Referring Expression Comprehension](#Referring-Expression-Comprehension-in-Drone-Scenes)
+  - [Referring Image Segmentation](#UAV-based-Referring-Image-Segmentation)
 - [Other Related Survey Papers](#Other-Related-Survey-Papers)  
 
 ---
