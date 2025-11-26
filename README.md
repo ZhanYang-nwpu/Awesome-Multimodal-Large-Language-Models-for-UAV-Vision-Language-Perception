@@ -24,8 +24,8 @@ In this repository, we will collect and document researchers and their outstandi
 - [Vision-Language Perception Task for UAVs](#vision-language-Perception-Task-for-UAVs)
   - [Spatial Aerial Video Grounding](#Spatial-Aerial-Video-Grounding)
   - [Drone Text-Video Retrieval](#Drone-Text-Video-Retrieval)
-  - [Referring Expression Comprehension](#Referring-Expression-Comprehension-in-Drone-Scenes)
-  - [Referring Image Segmentation](#UAV-based-Referring-Image-Segmentation)
+  - [Referring Expression Comprehension](#Referring-Expression-Comprehension)
+  - [Referring Expression Segmentation](#Referring-Expression-Segmentation)
 - [Other Related Survey Papers](#Other-Related-Survey-Papers)  
 
 ---
@@ -53,13 +53,13 @@ In this repository, we will collect and document researchers and their outstandi
 |:--------|:--------:|:--------:|:--------:|:--------:|
 |  [**TCMA: Text-Conditioned Multi-granularity Alignment for Drone Cross-Modal Text-Video Retrieval**](https://arxiv.org/abs/2510.10180) <br> Zixu Zhao, Yang Zhan <br>| arXiv | 2025-10-11 | - | under review |
 
-## Referring Expression Comprehension in Drone Scenes
+## Referring Expression Comprehension
 |  Title  |   Venue  |   Date   |   Code   |   Note   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
 |  ![Star](https://img.shields.io/github/stars/sunzc-sunny/refdrone.svg?style=social&label=Star) <br> [**RefDrone: A Challenging Benchmark for Referring Expression Comprehension in Drone Scenes**](https://arxiv.org/abs/2502.00392) <br> Sun, Z., Liu, Y., Zhu, H., Gu, Y., Zou, Y., Liu, Z., ... & Xu, Y.  <br>| arXiv | 2025-02-01 | [Github](https://github.com/sunzc-sunny/refdrone) | - |
 |  ![Star](https://img.shields.io/github/stars/ZhanYang-nwpu/RSVG-pytorch.svg?style=social&label=Star) <br> [**RSVG: Exploring Data and Model for Visual Grounding on Remote Sensing Data**](https://ieeexplore.ieee.org/abstract/document/10056343) <br>Yang Zhan, Zhitong Xiong, Yuan Yuan <br>| T-GRS | 2023-02-28 | [Github](https://github.com/ZhanYang-nwpu/RSVG-pytorch) | REC on RS |
 
-## UAV-based Referring Image Segmentation
+## Referring Expression Segmentation
 |  Title  |   Venue  |   Date   |   Code   |   Note   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
 |  ![Star](https://img.shields.io/github/stars/lironui/AeroReformer.svg?style=social&label=Star) <br> [**AeroReformer: Aerial Referring Transformer for UAV-based Referring Image Segmentation**](https://arxiv.org/abs/2502.16680) <br> Rui Li, Xiaowei Zhao <br>| arXiv | 2025-02-01 | [Github](https://github.com/lironui/AeroReformer) | - |
