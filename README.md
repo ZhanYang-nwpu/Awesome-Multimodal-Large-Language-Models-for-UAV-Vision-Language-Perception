@@ -6,7 +6,7 @@
 
 🎉🚀💡 The website will be updated in real-time to track the latest state of UAV-MLLMs!!!
 
-🌟🔥📢 A collection of low-altitude UAV multimodal large language model papers focusing on the vision-language domain.
+🌟🔥📢 A collection of **low-altitude UAV multimodal large language model** papers focusing on the **vision-language** domain.
 
 
 
