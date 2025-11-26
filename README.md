@@ -28,6 +28,7 @@ In this repository, we will collect and document researchers and their outstandi
   - [Drone Text-Video Retrieval](#Drone-Text-Video-Retrieval)
   - [Referring Expression Comprehension](#Referring-Expression-Comprehension)
   - [Referring Expression Segmentation](#Referring-Expression-Segmentation)
+  - [Vision-Language Aerial Video Recognition](#Vision-Language-Aerial-Video-Recognition)
 - [Other Related Survey Papers](#Other-Related-Survey-Papers)  
 
 ---
@@ -49,6 +50,13 @@ In this repository, we will collect and document researchers and their outstandi
 |  Title  |   Venue  |   Date   |   Code   |   Note   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
 |  ![Star](https://img.shields.io/github/stars/ZhanYang-nwpu/SAVG.svg?style=social&label=Star) <br> [**Where Does It Exist from the Low-Altitude: Spatial Aerial Video Grounding**](https://openreview.net/pdf?id=ktvr5cyMdu) <br> Yang Zhan, Yuan Yuan <br>| NeurIPS | 2025-10-29 | [Github](https://github.com/ZhanYang-nwpu/SAVG) | - |
+
+
+## Vision-Language Aerial Video Recognition
+|  Title  |   Venue  |   Date   |   Code   |   Note   |
+|:--------|:--------:|:--------:|:--------:|:--------:|
+|  [**MVPC-CLIP: Multi-granularity Visual Prompt Co-operative for Aerial Video Recognition**]() <br> Yang Zhan, Yuan Yuan <br>| T-MM | 2025-09-08 | [Github](https://github.com/ZhanYang-nwpu/MVPC-CLIP) | - |
+
 
 
 ## Drone Text-Video Retrieval
