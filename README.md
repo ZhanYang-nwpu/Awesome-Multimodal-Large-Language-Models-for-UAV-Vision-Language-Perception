@@ -21,9 +21,9 @@ In this repository, we will collect and document researchers and their outstandi
 <font size=5><center><b> Table of Contents </b> </center></font>
 - [Awesome Papers](#awesome-papers)
   - [Multimodal Large Language Models for UAV](#multimodal-large-language-models-for-uav)
-- [Vision-Language Perception Task for UAVs](#VLP-UAV)
-  - [Spatial Aerial Video Grounding](#savg)
-  - [Drone Text-Video Retrieval](#DTVR)
+- [Vision-Language Perception Task for UAVs](#vision-language-Perception-Task-for-UAVs)
+  - [Spatial Aerial Video Grounding](#Spatial-Aerial-Video-Grounding)
+  - [Drone Text-Video Retrieval](#Drone-Text-Video-Retrieval)
 ---
  
 
