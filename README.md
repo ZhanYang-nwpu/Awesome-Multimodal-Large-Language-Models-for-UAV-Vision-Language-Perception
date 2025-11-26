@@ -31,7 +31,7 @@ In this repository, we will collect and document researchers and their outstandi
 ## Multimodal Large Language Models for UAV
 |  Title  |   Venue  |   Date   |   Code   |   Note   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
-
+|  [**UAVBench and UAVIT-1M: Benchmarking and Enhancing MLLMs for Low-Altitude UAV Vision-Language Understanding**]) <br>Yang Zhan, Yuan Yuan  <br>| under review | 2025-09 | - | [Project page](https://UAVBench.github.io/) |
 
 
 # Vision-Language Perception Task for UAVs
