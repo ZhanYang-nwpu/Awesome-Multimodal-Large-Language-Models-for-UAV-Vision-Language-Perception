@@ -56,6 +56,7 @@ In this repository, we will collect and document researchers and their outstandi
 |  Title  |   Venue  |   Date   |   Code   |   Note   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
 |  ![Star](https://img.shields.io/github/stars/sunzc-sunny/refdrone.svg?style=social&label=Star) <br> [**RefDrone: A Challenging Benchmark for Referring Expression Comprehension in Drone Scenes**](https://arxiv.org/abs/2502.00392) <br> Sun, Z., Liu, Y., Zhu, H., Gu, Y., Zou, Y., Liu, Z., ... & Xu, Y.  <br>| arXiv | 2025-02-01 | [Github](https://github.com/sunzc-sunny/refdrone) | - |
+|  ![Star](https://img.shields.io/github/stars/ZhanYang-nwpu/RSVG-pytorch.svg?style=social&label=Star) <br> [**RSVG: Exploring Data and Model for Visual Grounding on Remote Sensing Data**](https://ieeexplore.ieee.org/abstract/document/10056343) <br>Yang Zhan, Zhitong Xiong, Yuan Yuan <br>| T-GRS | 2023-02-28 | [Github](https://github.com/ZhanYang-nwpu/RSVG-pytorch) | REC on RS |
 
 
 # Other Related Survey Paper
