@@ -8,5 +8,15 @@
 
 🌟🔥📢 A collection of **low-altitude UAV multimodal large language model** papers focusing on the **vision-language** domain.
 
+## Please share a <font color='orange'>STAR ⭐</font> if this project does help
+
+
+## 📢 Latest Updates
+In this repository, we will collect and document researchers and their outstanding work related to multimodal large language models for low-altitude UAV (vision-language perception).
+- **The list will be continuously updated** 🔥🔥
+- 📦 coming soon! 🚀
+- **Nov-26-2025**: The **first UAV-MLLMs** repository has been created. 🔥🔥
+  
+
 
 
