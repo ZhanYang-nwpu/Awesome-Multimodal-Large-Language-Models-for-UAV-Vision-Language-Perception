@@ -36,6 +36,7 @@ In this repository, we will collect and document researchers and their outstandi
 ## Multimodal Large Language Models for UAV
 |  Title  |   Venue  |   Date   |   Code   |   Note   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+|  [**LLVM-drone: A synergistic framework integrating large language models and vision models for visual tasks in unmanned aerial vehicles**](https://www.sciencedirect.com/science/article/pii/S0950705125012316) <br> Yibiao Hu, You Zhou, Zhengqiang Zhu, Xi Yang, Han Zhang, Kun Bian, Hong Han <br>| Knowledge-Based Systems | 2025-10-09 | - | - |
 |  [**UAVBench and UAVIT-1M: Benchmarking and Enhancing MLLMs for Low-Altitude UAV Vision-Language Understanding**]() <br>Yang Zhan, Yuan Yuan  <br>| under review | 2025-09 | - | [Project page](https://UAVBench.github.io/) |
 
 
