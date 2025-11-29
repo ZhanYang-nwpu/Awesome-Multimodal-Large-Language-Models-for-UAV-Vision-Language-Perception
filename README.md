@@ -52,6 +52,12 @@ In this repository, we will collect and document researchers and their outstandi
 |  ![Star](https://img.shields.io/github/stars/ZhanYang-nwpu/SAVG.svg?style=social&label=Star) <br> [**Where Does It Exist from the Low-Altitude: Spatial Aerial Video Grounding**](https://openreview.net/pdf?id=ktvr5cyMdu) <br> Yang Zhan, Yuan Yuan <br>| NeurIPS | 2025-09-19 | [Github](https://github.com/ZhanYang-nwpu/SAVG) | Referring Single-Object Tracking  |
 
 
+## Referring Multi-Object Tracking
+|  Title  |   Venue  |   Date   |   Code   |   Note   |
+|:--------|:--------:|:--------:|:--------:|:--------:|
+|  [**AerialMind: Towards Referring Multi-Object Tracking in UAV Scenarios**](https://arxiv.org/pdf/2511.21053) <br> Chenglizhao Chen, Shaofeng Liang, Runwei Guan, Xiaolou Sun, Haocheng Zhao, Haiyun Jiang, Tao Huang, Henghui Ding, Qing-Long Han <br>| AAAI | 2025-11-26 | - | -  |
+
+
 ## Vision-Language Aerial Video Recognition
 |  Title  |   Venue  |   Date   |   Code   |   Note   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
