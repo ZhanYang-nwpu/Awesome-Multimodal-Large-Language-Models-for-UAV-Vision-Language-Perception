@@ -25,6 +25,7 @@ In this repository, we will collect and document researchers and their outstandi
   - [Multimodal Large Language Models for UAV](#multimodal-large-language-models-for-uav)
 - [Vision-Language Perception Task for UAVs](#vision-language-Perception-Task-for-UAVs)
   - [Spatial Aerial Video Grounding](#Spatial-Aerial-Video-Grounding)
+  - [Referring Multi-Object Tracking](#Referring-Multi-Object-Tracking)
   - [Drone Text-Video Retrieval](#Drone-Text-Video-Retrieval)
   - [Referring Expression Comprehension](#Referring-Expression-Comprehension)
   - [Referring Expression Segmentation](#Referring-Expression-Segmentation)
