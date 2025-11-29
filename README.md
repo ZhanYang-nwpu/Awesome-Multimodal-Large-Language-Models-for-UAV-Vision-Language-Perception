@@ -46,10 +46,10 @@ In this repository, we will collect and document researchers and their outstandi
 
 # Vision-Language Perception Task for UAVs
 
-## Spatial Aerial Video Grounding (111)
+## Spatial Aerial Video Grounding
 |  Title  |   Venue  |   Date   |   Code   |   Note   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
-|  ![Star](https://img.shields.io/github/stars/ZhanYang-nwpu/SAVG.svg?style=social&label=Star) <br> [**Where Does It Exist from the Low-Altitude: Spatial Aerial Video Grounding**](https://openreview.net/pdf?id=ktvr5cyMdu) <br> Yang Zhan, Yuan Yuan <br>| NeurIPS | 2025-09-19 | [Github](https://github.com/ZhanYang-nwpu/SAVG) | - |
+|  ![Star](https://img.shields.io/github/stars/ZhanYang-nwpu/SAVG.svg?style=social&label=Star) <br> [**Where Does It Exist from the Low-Altitude: Spatial Aerial Video Grounding**](https://openreview.net/pdf?id=ktvr5cyMdu) <br> Yang Zhan, Yuan Yuan <br>| NeurIPS | 2025-09-19 | [Github](https://github.com/ZhanYang-nwpu/SAVG) | Referring Single-Object Tracking  |
 
 
 ## Vision-Language Aerial Video Recognition
