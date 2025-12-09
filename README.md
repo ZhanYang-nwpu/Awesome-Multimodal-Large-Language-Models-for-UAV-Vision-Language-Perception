@@ -23,6 +23,7 @@ In this repository, we will collect and document researchers and their outstandi
 <font size=5><center><b> Table of Contents </b> </center></font>
 - [Awesome Papers](#awesome-papers)
   - [Multimodal Large Language Models for UAV](#multimodal-large-language-models-for-uav)
+  - [Agents for UAV Visual Perception](#Agents-for-UAV-Visual-Perception)
 - [Vision-Language Perception Task for UAVs](#vision-language-Perception-Task-for-UAVs)
   - [Spatial Aerial Video Grounding](#Spatial-Aerial-Video-Grounding)
   - [Referring Multi-Object Tracking](#Referring-Multi-Object-Tracking)
@@ -43,6 +44,12 @@ In this repository, we will collect and document researchers and their outstandi
 |  [**LLVM-drone: A synergistic framework integrating large language models and vision models for visual tasks in unmanned aerial vehicles**](https://www.sciencedirect.com/science/article/pii/S0950705125012316) <br> Yibiao Hu, You Zhou, Zhengqiang Zhu, Xi Yang, Han Zhang, Kun Bian, Hong Han <br>| Knowledge-Based Systems | 2025-10-09 | - | - |
 |  ![Star](https://img.shields.io/github/stars/Leke-G/UAV-VL-R1.svg?style=social&label=Star) <br> [**UAV-VL-R1: Generalizing Vision-Language Models via Supervised Fine-Tuning and Multi-Stage GRPO for UAV Visual Reasoning**](https://arxiv.org/abs/2508.11196) <br> Guan, J., Mei, H., Zhang, B., Liu, D., Fu, Y., & Zhang, Y.  <br>| arXiv | 2025-08-15 | [Github](https://github.com/Leke-G/UAV-VL-R1) | - |
 |  [**UAVBench and UAVIT-1M: Benchmarking and Enhancing MLLMs for Low-Altitude UAV Vision-Language Understanding**]() <br>Yang Zhan, Yuan Yuan  <br>| under review | 2025-05-13 | [Github](https://github.com/ZhanYang-nwpu/UAVBench-and-UAVIT-1M)  | [Project page](https://UAVBench.github.io/) |
+
+## Agents for UAV Visual Perception
+|  Title  |   Venue  |   Date   |   Code   |   Note   |
+|:--------|:--------:|:--------:|:--------:|:--------:|
+|  ![Star](https://img.shields.io/github/stars/lostwolves/AerialVP.svg?style=social&label=Star) <br> [**Towards Accurate UAV Image Perception: Guiding Vision-Language Models with Stronger Task Prompts**](https://arxiv.org/abs/2512.07302) <br>Mingning Guo, Mengwei Wu, Shaoxian Li, Haifeng Li, Chao Tao.  <br>| arXiv | 2025-08-15 | [Github](https://github.com/lostwolves/AerialVP) | - |
+
 
 
 # Vision-Language Perception Task for UAVs
