@@ -48,7 +48,7 @@ In this repository, we will collect and document researchers and their outstandi
 ## Agents for UAV Visual Perception
 |  Title  |   Venue  |   Date   |   Code   |   Note   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
-|  ![Star](https://img.shields.io/github/stars/lostwolves/AerialVP.svg?style=social&label=Star) <br> [**Towards Accurate UAV Image Perception: Guiding Vision-Language Models with Stronger Task Prompts**](https://arxiv.org/abs/2512.07302) <br>Mingning Guo, Mengwei Wu, Shaoxian Li, Haifeng Li, Chao Tao.  <br>| arXiv | 2025-08-15 | [Github](https://github.com/lostwolves/AerialVP) | - |
+|  ![Star](https://img.shields.io/github/stars/lostwolves/AerialVP.svg?style=social&label=Star) <br> [**Towards Accurate UAV Image Perception: Guiding Vision-Language Models with Stronger Task Prompts**](https://arxiv.org/abs/2512.07302) <br>Mingning Guo, Mengwei Wu, Shaoxian Li, Haifeng Li, Chao Tao.  <br>| arXiv | 2025-12-08 | [Github](https://github.com/lostwolves/AerialVP) | - |
 
 
 
