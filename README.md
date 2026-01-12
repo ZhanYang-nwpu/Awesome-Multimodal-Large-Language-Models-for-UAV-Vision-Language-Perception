@@ -88,6 +88,7 @@ In this repository, we will collect and document researchers and their outstandi
 ## Referring Expression Segmentation
 |  Title  |   Venue  |   Date   |   Code   |   Note   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+|  ![Star](https://img.shields.io/github/stars/VisionXLab/DVGBench.svg?style=social&label=Star) <br> [**DVGBench: Implicit-to-Explicit Visual Grounding Benchmark in UAV Imagery with Large Vision-Language Models**](https://arxiv.org/abs/2502.16680) <br> Yue Zhou, Jue Chen, Zilun Zhang, Penghui Huang, Ran Ding, Zhentao Zou, PengFei Gao, Yuchen Wei, Ke Li, Xue Yang, Xue Jiang, Hongxin Yang, Jonathan Li <br>| arXiv | 2026-01-02 | [Github](https://github.com/VisionXLab/DVGBench) | - |
 |  ![Star](https://img.shields.io/github/stars/AHideoKuzeA/RIS-LAD-A-Benchmark-and-Model-for-Referring-Low-Altitude-Drone-Image-Segmentation.svg?style=social&label=Star) <br> [**RIS-LAD: Referring Low-Altitude Drone Image Segmentation**](https://arxiv.org/pdf/2507.20920) <br> Kai Ye, YingShi Luan, Zhudi Chen, Guangyue Meng, Pingyang Dai, Liujuan Cao <br>| arXiv | 2025-09-25 | [Github](https://github.com/AHideoKuzeA/RIS-LAD-A-Benchmark-and-Model-for-Referring-Low-Altitude-Drone-Image-Segmentation) | - |
 |  ![Star](https://img.shields.io/github/stars/lironui/AeroReformer.svg?style=social&label=Star) <br> [**AeroReformer: Aerial Referring Transformer for UAV-based Referring Image Segmentation**](https://arxiv.org/abs/2502.16680) <br> Rui Li, Xiaowei Zhao <br>| arXiv | 2025-02-01 | [Github](https://github.com/lironui/AeroReformer) | - |
 
