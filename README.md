@@ -53,6 +53,7 @@ In this repository, we will collect and document researchers and their outstandi
 |:--------|:--------:|:--------:|:--------:|:--------:|
 |  ![Star](https://img.shields.io/github/stars/lostwolves/AerialVP.svg?style=social&label=Star) <br> [**Towards Accurate UAV Image Perception: Guiding Vision-Language Models with Stronger Task Prompts**](https://arxiv.org/abs/2512.07302) <br>Mingning Guo, Mengwei Wu, Shaoxian Li, Haifeng Li, Chao Tao.  <br>| arXiv | 2025-12-08 | [Github](https://github.com/lostwolves/AerialVP) | - |
 |  [**Multimodal Large Language Models-Enabled UAV Swarm: Towards Efficient and Intelligent Autonomous Aerial Systems**](https://arxiv.org/abs/2506.12710) <br> Yuqi Ping, Tianhao Liang, Huahao Ding, Guangyu Lei, Junwei Wu, Xuan Zou, Kuan Shi, Rui Shao, Chiya Zhang, Weizheng Zhang, Weijie Yuan, Tingting Zhang <br>| arXiv | 2025-06-15 | - | [YouTube Demo](https://www.youtube.com/watch?v=zwnB9ZSa5A4) |
+|  ![Star](https://img.shields.io/github/stars/sautenich/uav-vla.svg?style=social&label=Star) <br> [**UAV-VLA: Vision-Language-Action System for Large Scale Aerial Mission Generation**](https://ieeexplore.ieee.org/abstract/document/10974117) <br>Oleg Sautenkov; Yasheerah Yaqoot; Artem Lykov; Muhammad Ahsan Mustafa; Grik Tadevosyan; Aibek Akhmetkazy  <br>| HRI | 2025-03-06 | [Github](https://github.com/sautenich/uav-vla) | - |
 
 
 # Vision-Language Perception Task for UAVs
