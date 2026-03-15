@@ -71,7 +71,7 @@ In this repository, we will collect and document researchers and their outstandi
 ## Vision-Language Aerial Video Recognition
 |  Title  |   Venue  |   Date   |   Code   |   Note   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
-|  [**MVPC-CLIP: Multi-granularity Visual Prompt Co-operative for Aerial Video Recognition**](https://ieeexplore.ieee.org/abstract/document/11420246/) <br> Yang Zhan, Yuan Yuan <br>| T-MM | 2025-09-08 | [Github](https://github.com/ZhanYang-nwpu/MVPC-CLIP) | - |
+|   ![Star](https://img.shields.io/github/stars/ZhanYang-nwpu/MVPC-CLIP.svg?style=social&label=Star) <br> [**MVPC-CLIP: Multi-granularity Visual Prompt Co-operative for Aerial Video Recognition**](https://ieeexplore.ieee.org/abstract/document/11420246/) <br> Yang Zhan, Yuan Yuan <br>| T-MM | 2025-09-08 | [Github](https://github.com/ZhanYang-nwpu/MVPC-CLIP) | - |
 |  [**Improving Vision-Language Models With Attention Mechanisms for Aerial Video Classification**](https://ieeexplore.ieee.org/abstract/document/10851386) <br> Nguyen Anh Tu; Nartay Aikyn <br>| GRSL | 2025-01-23 | - | - |
 
 
